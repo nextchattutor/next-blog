@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'TechPies Blog',
   author: 'Tony Wu',
   headerTitle: '技术派',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: '分享技术，点亮生活',
   language: 'zh-cn',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
