@@ -1,6 +1,6 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'TechPies Blog',
+  title: '技术派 Blog',
   author: 'Tony Wu',
   headerTitle: '技术派',
   description: '分享技术，点亮生活',
@@ -8,7 +8,7 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://techpies.netlify.app',
   siteRepo: 'https://github.com/nextchattutor/next-blog',
-  siteLogo: '/static/images/logo.webp',
+  siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'nextchattutor@gmail.com',
